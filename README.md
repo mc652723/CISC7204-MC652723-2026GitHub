@@ -1,8 +1,10 @@
-# CISC7204 Assignment 01 — Data Science Portfolio
+# CISC7204 — Data Science Portfolio
 
 - **Student:** XIE AN
 - **Student ID:** MC652723
 - **Course:** CISC7204 Data Science
+
+## Assignment 01
 
 ## Contents
 
@@ -19,3 +21,11 @@ screenshots documenting each step.
 | module6 | PracticeProj, FinalProj | End-to-end projects on medical insurance charges and housing prices: data wrangling, EDA, linear and multiple regression, polynomial pipelines, Ridge regularisation |
 
 `CISC7204-Assgn01-MC652723-PreliminaryProjectProposal.docx` is the project proposal.
+
+## Assignment 02
+
+Assignment 02 artifacts are in
+[`cisc7204-Assgn02-2026-MC652723`](cisc7204-Assgn02-2026-MC652723/): the five
+module lab notebooks, the Plotly/Dash project spaces, the forum evidence
+screenshots, the revised pair project proposal, the work division plan, and the
+final Module 05 submission copies.

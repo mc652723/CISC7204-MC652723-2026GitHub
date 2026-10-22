@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+.idea/
+_backups/
+Forum Upload/
+.DS_Store
+Thumbs.db
