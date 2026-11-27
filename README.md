@@ -2,30 +2,18 @@
 
 - **Student:** XIE AN
 - **Student ID:** MC652723
-- **Course:** CISC7204 Data Science
+- **Course:** CISC7204 Data Science and Data Visualization
 
-## Assignment 01
+This repository holds the coursework artifacts for the two assignments. Each assignment
+lives in its own folder with a README that describes what is inside.
 
-## Contents
+| Folder | Assignment | Contents |
+|---|---|---|
+| [`cisc7204-Assgn01-2026-MC652723/`](cisc7204-Assgn01-2026-MC652723/) | Assignment 01 (individual) | Six module lab folders — notebooks with executed outputs plus step screenshots — covering data wrangling, EDA and regression, and the preliminary project proposal |
+| [`cisc7204-Assgn02-2026-MC652723/`](cisc7204-Assgn02-2026-MC652723/) | Assignment 02 (pair with XI YUHANG) | Five module lab folders, the Plotly/Dash project spaces, the forum evidence screenshots, the revised pair proposal, the work division plan and the final submission copies |
 
-Each module folder contains the lab notebook(s) with executed outputs plus
-screenshots documenting each step.
+## Portfolio
 
-| Module | Labs | Topics |
-|--------|------|--------|
-| module1 | Lab01, Lab02 | Data acquisition, DataFrame basics, headers, missing values |
-| module2 | Lab01, Lab02 | Data wrangling, binning, normalization, indicator variables |
-| module3 | Lab01, Lab02 | Exploratory data analysis: descriptive statistics and value counts, groupby and pivot tables, boxplots for categorical variables, regplots for continuous variables, heatmaps, Pearson correlation |
-| module4 | Lab01, Lab02 | Simple and multiple linear regression, polynomial regression, pipelines with StandardScaler and PolynomialFeatures, in-sample evaluation (R², MSE), residual and fitted-value plots |
-| module5 | Lab01, Lab02 | Train/test split, overfitting and model selection, R² versus polynomial order, cross-validation, Ridge regression, GridSearchCV for the best alpha |
-| module6 | PracticeProj, FinalProj | End-to-end projects on medical insurance charges and housing prices: data wrangling, EDA, linear and multiple regression, polynomial pipelines, Ridge regularisation |
-
-`CISC7204-Assgn01-MC652723-PreliminaryProjectProposal.docx` is the project proposal.
-
-## Assignment 02
-
-Assignment 02 artifacts are in
-[`cisc7204-Assgn02-2026-MC652723`](cisc7204-Assgn02-2026-MC652723/): the five
-module lab notebooks, the Plotly/Dash project spaces, the forum evidence
-screenshots, the revised pair project proposal, the work division plan, and the
-final Module 05 submission copies.
+The data-science portfolio built from this coursework is published at
+**<https://mc652723.github.io/data-science-portfolio/>**, and the project notebooks live in
+[mc652723/data-science-project](https://github.com/mc652723/data-science-project).
